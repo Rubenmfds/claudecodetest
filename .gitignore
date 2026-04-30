@@ -1,0 +1,5 @@
+gezond-app/node_modules/
+gezond-app/.expo/
+gezond-app/dist/
+gezond-app/web-build/
+.DS_Store
